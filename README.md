@@ -24,13 +24,13 @@
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravbaviskar28&layout=compact&theme=radical" />
 
-  <a href="https://github.com/gauravbaviskar28/Ocean-Biodiversity-Conservation">
+  <a href="https://github.com/gauravbaviskar28/Enhancing-Ocean-Bio-Diversity-Conservation">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravbaviskar28&repo=Ocean-Biodiversity-Conservation&theme=radical" />
   </a>
-  <a href="https://github.com/gauravbaviskar28/Ahirani-Speech-to-Text">
+  <a href="https://github.com/gauravbaviskar28/College_Major_Project">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravbaviskar28&repo=Ahirani-Speech-to-Text&theme=radical" />
   </a>
-  <a href="https://github.com/gauravbaviskar28/Hindi-Handwritten-Text-OCR">
+  <a href="https://github.com/gauravbaviskar28/ocrhindi.git">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravbaviskar28&repo=Hindi-Handwritten-Text-OCR&theme=radical" />
   </a>
 
