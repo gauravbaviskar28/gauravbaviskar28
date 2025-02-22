@@ -26,20 +26,20 @@
   <a href="https://github.com/gauravbaviskar28/Enhancing-Ocean-Bio-Diversity-Conservation">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravbaviskar28&repo=Enhancing-Ocean-Bio-Diversity-Conservation&theme=radical" />
   </a>
-  <p>🔍 **Enhancing Ocean Biodiversity Conservation Efforts Using AI/ML and AWS Services**:  
-  This project involved engineering a data pipeline with AWS Lambda and Python, automating data transfer to S3 to boost efficiency by 40%. It included preprocessing and cleaning data with Big Data Framework (PySpark) and AWS Glue to enhance accuracy. The goal was to classify conservation priorities using Random Forest models, improving planning effectiveness by 20% through insights visualized in Power BI.</p>
+  <p>🔍 **Enhancing Ocean Biodiversity Conservation**:  
+  Built a data pipeline using AWS services to boost efficiency by 40%. Classified conservation priorities with a Random Forest model and visualized insights in Power BI.</p>
 
   <a href="https://github.com/gauravbaviskar28/College_Major_Project">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravbaviskar28&repo=College_Major_Project&theme=radical" />
   </a>
   <p>🖥️ **College Major Project**:  
-  A comprehensive project focusing on developing a machine learning-based solution to tackle real-world data challenges. The project leverages Python and machine learning libraries to implement predictive models, focusing on data analysis, preprocessing, and model optimization.</p>
+  Developed a machine learning-based solution for real-world data challenges, using Python and ML libraries to optimize predictive models.</p>
 
   <a href="https://github.com/gauravbaviskar28/ocrhindi">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravbaviskar28&repo=ocrhindi&theme=radical" />
   </a>
   <p>📝 **OCR for Hindi Handwritten Text**:  
-  This project aimed to develop an Optical Character Recognition (OCR) system for handwritten Hindi text. Using Convolutional Neural Networks (CNN), OpenCV, and deep learning techniques, the system achieved significant improvements in accuracy, deployed through Django for real-time recognition.</p>
+  Built an OCR system using CNN and OpenCV to recognize handwritten Hindi text with improved accuracy, deployed in real-time via Django.</p>
 
 ---
 
