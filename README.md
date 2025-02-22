@@ -1,6 +1,6 @@
 ### Hey there, I'm **Gaurav Rajesh Baviskar** - aka [GauravBaviskar28] 👋
 
-## I'm a Student, Data Science Enthusiast!
+## I'm a Student of Computer Engineerning @SSBT COET,Jalgaon, Data Science Enthusiast!
 
 - 🔭 I’m currently working on **Data Science Projects** and improving my skills in **Machine Learning** and **Big Data**.
 - 🌱 I’m currently learning **AWS**, **Data Engineering**, and **Deep Learning** 🤖.
