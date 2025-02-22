@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **AWS**, **Data Engineering**, and **Deep Learning** 🤖.
 - 👯 I’m looking to collaborate with other developers and data scientists.
 - 🥅 2026 Goals: Contribute more to **Open Source** and improve my **Machine Learning** skills.
-- ⚡ Fun fact: I ❤️ **Data Analysis** 🔎👨‍💻, **Data Science**, and **Photography** 📸
+- ⚡ Fun fact: I ❤️ **Data Analysis** 🔎👨‍💻, **Data Science**, and **Learning New Technologies** ⚙️
 
 ### Connect with me:
 
