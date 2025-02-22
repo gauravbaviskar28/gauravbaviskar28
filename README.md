@@ -1,138 +1,47 @@
-# 👨‍💻 Gaurav Rajesh Baviskar
+### Hey there, I'm **Gaurav Rajesh Baviskar** - aka [GauravBaviskar28] 👋
 
-📍 **Location**: Nashik, Maharashtra, India  
-📞 **Contact**: +91 9325816185  
-📧 **Email**: [gauravbaviskar28@gmail.com](mailto:gauravbaviskar28@gmail.com)  
-🔗 **LinkedIn**: [linkedin.com/in/gauravbaviskar](https://www.linkedin.com/in/gauravbaviskar)
+## I'm a Student of BE Computer Engineer(SSBT COET,Jalgaon), Data Science Enthusiast, Developer!
 
----
+- 🔭 I’m currently working on **Data Science Projects** and improving my skills in **Machine Learning** and **Big Data**.
+- 🌱 I’m currently learning **AWS**, **Data Engineering**, and **Deep Learning** 🤖.
+- 👯 I’m looking to collaborate with other developers and data scientists.
+- 🥅 2026 Goals: Contribute more to **Open Source** and improve my **Machine Learning** skills.
+- ⚡ Fun fact: I ❤️ **Coding** 👨‍💻, **Data Science**, and **Photography** 📸.
 
-### 👨‍💻 **About Me**
+### Connect with me:
 
-Hello! I am **Gaurav Rajesh Baviskar**, a passionate **Computer Engineering student** at **Shrama Sadhana Bombay Trust’s College of Engineering and Technology (SSBT)**. I am passionate about **Data Science**, **Big Data**, **Machine Learning**, and **Cloud Computing**. I love solving complex problems and am always exploring new technologies to improve my skills.
+[<img align="left" alt="GauravBaviskar | LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]  
+[<img align="left" alt="GauravBaviskar | Instagram" width="22px" src="https://img.icons8.com/fluent/26/000000/instagram-new.png" />][instagram]  
+[<img align="left" alt="GauravBaviskar | Twitter" width="22px" src="https://img.icons8.com/offices/30/000000/twitter.png" />][twitter]  
+[<img align="left" alt="GauravBaviskar | GitHub" width="22px" src="https://img.icons8.com/ios-filled/50/000000/github.png" />][github]  
 
-I am continuously working on academic projects to improve my understanding of key concepts in data science and software development. My expertise lies in **Python**, **SQL**, **AWS**, and **Big Data frameworks**. I am excited to collaborate on innovative and data-driven solutions.
+<br />
+<br />
 
----
+*NOTE: Top languages do not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub.*
 
-### ⚙️ **Skills**
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravbaviskar28&show_icons=true&include_all_commits=true&theme=radical" alt="Gaurav's github stats" />
 
-**Programming Languages**:  
-- Python, SQL, C++, C, R
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravbaviskar28&layout=compact&theme=radical" />
 
-**Big Data Frameworks**:  
-- Hadoop, Spark, Kafka, Hive
-
-**Cloud Platforms**:  
-- AWS (S3, Athena, Glue, EC2, Lambda, SageMaker, EMR)
-
-**Data Science**:  
-- Data Wrangling, Machine Learning, Deep Learning, NLP
-
-**Visualization Tools**:  
-- Power BI, Tableau
-
-**Others**:  
-- Linux, Git, Jupyter Notebook, VS Code
-
----
-
-### 📈 **Projects**
-
-#### **1. Ocean Biodiversity Conservation Using AI/ML & AWS**
-**Tech Stack**: Python, AWS (S3, Athena, Glue, SageMaker, EMR/EC2), Spark, Power BI  
-- Developed a **data pipeline** using **AWS Lambda** and **Python**, automating data transfers and boosting efficiency by 40%.
-- Preprocessed data with **PySpark** & **AWS Glue**, enhancing accuracy by 30%.
-- Created **Random Forest Models** to classify conservation priorities, optimized through hyperparameter tuning.
-- Visualized insights in **Power BI**, reducing manual work by 50%.
-
-#### **2. Speech-to-Text for Ahirani Language**
-**Tech Stack**: Python, Deep Learning, NLP (Librosa, Spacy, NLTK)  
-- Developed a **Speech-to-Text** solution for the **Ahirani** language with 85% accuracy.
-- Focused on optimization for regional dialects, with the work published in **IJCST**.
-
-#### **3. Hindi Handwritten Text OCR**
-**Tech Stack**: Python, CNN, Deep Learning, OpenCV, NumPy  
-- Designed an **OCR** system for **Hindi handwritten text**, improving recognition accuracy by 20%.
-- Deployed the solution using **Django** for real-time recognition.
+  <a href="https://github.com/gauravbaviskar28/Ocean-Biodiversity-Conservation">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravbaviskar28&repo=Ocean-Biodiversity-Conservation&theme=radical" />
+  </a>
+  <a href="https://github.com/gauravbaviskar28/Ahirani-Speech-to-Text">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravbaviskar28&repo=Ahirani-Speech-to-Text&theme=radical" />
+  </a>
+  <a href="https://github.com/gauravbaviskar28/Hindi-Handwritten-Text-OCR">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravbaviskar28&repo=Hindi-Handwritten-Text-OCR&theme=radical" />
+  </a>
 
 ---
 
-### 🎓 **Education**
-
-**Bachelor of Engineering in Computer Engineering**  
-*Shrama Sadhana Bombay Trust’s College of Engineering and Technology (SSBT)*  
-**Expected Graduation**: 2023  
-**CGPA**: 8.64/10
-
----
-
-### 🏆 **Achievements & Certifications**
-
-- **Won Manthan Hackathon 2021** – [View Certificate](#)
-- **Google Cloud Facilitator** (till 3rd Milestone)
-- **Certifications**:
-  - **Python** by University of Michigan – [View Certificate](#)
-  - **Microsoft Azure Internship** – [View Certificate](#)
-  - **C++ Programming** – [View Certificate](#)
-
----
-
-### 🌐 **Let’s Connect!**
-
-I am always open to connecting with like-minded individuals and teams. Feel free to reach out for any collaboration opportunities, discussions, or projects.
-
-📧 **Email**: [gauravbaviskar28@gmail.com](mailto:gauravbaviskar28@gmail.com)  
-🔗 **LinkedIn**: [linkedin.com/in/gauravbaviskar](https://www.linkedin.com/in/gauravbaviskar)
-
----
-
-### 🔥 **GitHub Stats**
-
-![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravbaviskar28&show_icons=true&count_private=true&hide=prs&theme=radical)
-
----
-
-### 🌟 **GitHub Streak Stats**
-
-![Gaurav's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=gauravbaviskar28&theme=radical)
-
----
-
-### 💬 **Latest Blog Posts**
-
-*You can link to any blog posts you've written or add project details here, if applicable.*
-
----
-
-## 🚀 **How to Apply This README to Your GitHub Profile**
-
-To apply this **README.md** file to your GitHub profile, follow these simple steps:
-
-### Step 1: Create a Repository with Your GitHub Username  
-1. Visit [GitHub](https://github.com) and log in to your account.
-2. Go to the **Repositories** tab in your profile.
-3. Create a new repository, **named exactly after your GitHub username** (e.g., if your username is `gauravbaviskar28`, the repository must be called `gauravbaviskar28`).
-4. Make sure the repository is **public**.
-
-### Step 2: Add a README.md File to Your Repository  
-1. Inside the newly created repository, click on **"Add file"** and choose **"Create new file"**.
-2. Name the file `README.md` (it should be exactly like this).
-3. Paste the entire code from this **README.md** above into the file editor.
-4. Scroll down and click the **"Commit changes"** button.
-
-### Step 3: Customize Your GitHub Stats (Optional)  
-- Replace the `username` in the GitHub stats URLs with your own GitHub username in both the **GitHub Stats** and **Streak Stats** sections.
-- If you want to include other details like blogs or tutorials, feel free to add them.
-
-### Step 4: Enjoy Your Profile!  
-Now, when anyone visits your GitHub profile, they'll see your professional and attractive README showcasing your skills, projects, and achievements!
-
----
-
-### 🎨 **GitHub Profile Design Tips**  
-To make your profile even more impressive, consider adding custom badges, showcasing your work in a portfolio, or linking your other active contributions.
-
----
-
-With this **pro student** approach, your GitHub profile will truly stand out and make a lasting impression! Let me know if you need any additional help. 😊
+[github]: https://github.com/gauravbaviskar28
+[twitter]: https://twitter.com/GauravBaviskar28
+[instagram]: https://www.instagram.com/gauravbaviskar28/
+[linkedin]: https://www.linkedin.com/in/gauravbaviskar/
+[quizui]: https://play.google.com/store/apps/details?id=com.basementgeniusstudios.quizui
+[jsplaylist]: #
+[cssplaylist]: #
+[reactplaylist]: #
+[webdevplaylist]: #
