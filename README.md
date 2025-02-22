@@ -25,23 +25,17 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravbaviskar28&layout=compact&theme=radical" />
 
   <a href="https://github.com/gauravbaviskar28/Enhancing-Ocean-Bio-Diversity-Conservation">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravbaviskar28&repo=Ocean-Biodiversity-Conservation&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravbaviskar28&repo=Enhancing-Ocean-Bio-Diversity-Conservation&theme=radical" />
   </a>
   <a href="https://github.com/gauravbaviskar28/College_Major_Project">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravbaviskar28&repo=Ahirani-Speech-to-Text&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravbaviskar28&repo=College_Major_Project&theme=radical" />
   </a>
-  <a href="https://github.com/gauravbaviskar28/ocrhindi.git">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravbaviskar28&repo=Hindi-Handwritten-Text-OCR&theme=radical" />
+  <a href="https://github.com/gauravbaviskar28/ocrhindi">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravbaviskar28&repo=ocrhindi&theme=radical" />
   </a>
 
 ---
 
 [github]: https://github.com/gauravbaviskar28
-[twitter]: https://twitter.com/GauravBaviskar28
-[instagram]: https://www.instagram.com/gauravbaviskar28/
+[instagram]: https://www.instagram.com/gaurav_baviskar_official/
 [linkedin]: https://www.linkedin.com/in/gauravbaviskar/
-[quizui]: https://play.google.com/store/apps/details?id=com.basementgeniusstudios.quizui
-[jsplaylist]: #
-[cssplaylist]: #
-[reactplaylist]: #
-[webdevplaylist]: #
