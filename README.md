@@ -1,6 +1,6 @@
 ### Hey there, I'm **Gaurav Rajesh Baviskar** - aka [GauravBaviskar28] 👋
 
-## I'm a Student of BE Computer Engineer(SSBT COET,Jalgaon), Data Science Enthusiast, Developer!
+## I'm a Student of BE Computer Engineer(SSBT COET,Jalgaon), Data Science Enthusiast !
 
 - 🔭 I’m currently working on **Data Science Projects** and improving my skills in **Machine Learning** and **Big Data**.
 - 🌱 I’m currently learning **AWS**, **Data Engineering**, and **Deep Learning** 🤖.
@@ -12,7 +12,6 @@
 
 [<img align="left" alt="GauravBaviskar | LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]  
 [<img align="left" alt="GauravBaviskar | Instagram" width="22px" src="https://img.icons8.com/fluent/26/000000/instagram-new.png" />][instagram]  
-[<img align="left" alt="GauravBaviskar | Twitter" width="22px" src="https://img.icons8.com/offices/30/000000/twitter.png" />][twitter]  
 [<img align="left" alt="GauravBaviskar | GitHub" width="22px" src="https://img.icons8.com/ios-filled/50/000000/github.png" />][github]  
 
 <br />
