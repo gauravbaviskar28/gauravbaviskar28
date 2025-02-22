@@ -26,20 +26,12 @@
   <a href="https://github.com/gauravbaviskar28/Enhancing-Ocean-Bio-Diversity-Conservation">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravbaviskar28&repo=Enhancing-Ocean-Bio-Diversity-Conservation&theme=radical" />
   </a>
-  <p>🔍 **Enhancing Ocean Biodiversity Conservation**:  
-  Built a data pipeline using AWS services to boost efficiency by 40%. Classified conservation priorities with a Random Forest model and visualized insights in Power BI.</p>
-
   <a href="https://github.com/gauravbaviskar28/College_Major_Project">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravbaviskar28&repo=College_Major_Project&theme=radical" />
   </a>
-  <p>🖥️ **College Major Project**:  
-  Developed a machine learning-based solution for real-world data challenges, using Python and ML libraries to optimize predictive models.</p>
-
   <a href="https://github.com/gauravbaviskar28/ocrhindi">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravbaviskar28&repo=ocrhindi&theme=radical" />
   </a>
-  <p>📝 **OCR for Hindi Handwritten Text**:  
-  Built an OCR system using CNN and OpenCV to recognize handwritten Hindi text with improved accuracy, deployed in real-time via Django.</p>
 
 ---
 
