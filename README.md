@@ -10,9 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="GauravBaviskar | LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]  
-[<img align="left" alt="GauravBaviskar | Instagram" width="22px" src="https://img.icons8.com/fluent/26/000000/instagram-new.png" />][instagram]  
-[<img align="left" alt="GauravBaviskar | GitHub" width="22px" src="https://img.icons8.com/ios-filled/50/000000/github.png" />][github]  
+[<img align="left" alt="GauravBaviskar | LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]  [<img align="left" alt="GauravBaviskar | Instagram" width="22px" src="https://img.icons8.com/fluent/26/000000/instagram-new.png" />][instagram]  [<img align="left" alt="GauravBaviskar | GitHub" width="22px" src="https://img.icons8.com/ios-filled/50/000000/github.png" />][github]  
 
 <br />
 <br />
